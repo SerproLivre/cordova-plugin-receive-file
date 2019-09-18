@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-receivefileplugin",
+    "name": "cordova-plugin-receive-file",
     "version": "0.0.1",
     "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
     "cordova": {
-      "id": "cordova-plugin-receivefileplugin",
+      "id": "cordova-plugin-receive-file",
       "platforms": [
         "android"
       ]
